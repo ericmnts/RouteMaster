@@ -1,0 +1,12 @@
+beautifulsoup4
+jinja2
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langgraph
+langsmith
+loguru
+openai
+requests
+tiktoken
